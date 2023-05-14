@@ -1,0 +1,64 @@
+/* Global styles */
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  section {
+    margin: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* Tetris Controls page styles */
+  .key-box {
+    border: 1px solid black;
+    display: inline-block;
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+  }
+  
+  /* Super Mario Bros Controls page styles */
+  .key-box {
+    border: 1px solid black;
+    display: inline-block;
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+  }
+  /* Back button styles */
+.back-btn {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    background-color: #333;
+    border: none;
+    padding: 10px;
+    width: 100px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .back-btn:hover {
+    background-color: #555;
+  }
+  
+  
